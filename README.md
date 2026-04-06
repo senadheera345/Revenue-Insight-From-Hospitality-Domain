@@ -14,7 +14,7 @@
 ---
 
 ## 🚀 Workflow  
-
+<p align="center"> <img src="D2.png" width="800"/> </p>
 ### 📥 Data Collection  
 ```python
 # Tools & Sources
