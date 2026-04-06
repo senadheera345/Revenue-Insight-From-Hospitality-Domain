@@ -16,9 +16,19 @@
 ## 🚀 Workflow  
 <p align="center"> <img src="D2.png" width="800"/> </p>
 
+
+
+
 ### 📥 Data Collection  
 ```python
 # Tools & Sources
 - SQL Server / Database Exports
 - Excel / CSV files from Hospitality Operations
 - Revenue, Bookings, Customer, and Seasonal Data
+
+### Dashboard Features:
+  - Total Revenue by Month / Quarter
+  - Revenue breakdown by Room Type / Hotel Branch
+  - Seasonal Trend Analysis
+  - Booking Channel Performance
+  - Interactive Filters (Date Range, Branch, Room Type)
